@@ -1,0 +1,2 @@
+# gna
+project
